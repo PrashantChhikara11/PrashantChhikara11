@@ -4,7 +4,7 @@
 
 📍 Auckland, New Zealand · ✅ Full NZ work rights · 💼 Open to QA Automation / SDET roles
 
-I've worked in quality assurance for **12+ years** (since 2014), across manual, automation, API and data testing. I build scalable **Hybrid and Page Object Model frameworks from scratch** in Playwright. Before that I worked for years with Selenium WebDriver (Java) and TestNG. I've led a team of 4 automation engineers and also worked as a Scrum Master alongside my QA lead role.
+I've worked in quality assurance for **11+ years** (since 2014), across manual, automation, API and data testing. I build scalable **Hybrid and Page Object Model frameworks from scratch** in Playwright. Before that I worked for years with Selenium WebDriver (Java) and TestNG. I've led a team of 4 automation engineers and also worked as a Scrum Master alongside my QA lead role.
 
 - 🏗️ **Framework design:** POM, custom fixtures, data-driven testing (JSON / CSV / Excel), reusable utilities, custom reporting
 - 🔌 **API testing:** Playwright request context, JSON schema validation, bearer/OAuth authentication, CRUD and contract tests
